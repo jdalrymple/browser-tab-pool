@@ -1,0 +1,11 @@
+{
+  "name": "browser-tab-pool",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "p-queue": "^6.6.2",
+    "playwright-core": "^1.8.1"
+  }
+}
